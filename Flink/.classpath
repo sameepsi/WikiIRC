@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/flink-0.10.2/lib/flink-dist-0.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/flink-0.10.2/lib/flink-python-0.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/flink-0.10.2/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/flink-0.10.2/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/flink-connector-wikiedits_2.11-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/sameepsinghania/Downloads/irclib-1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

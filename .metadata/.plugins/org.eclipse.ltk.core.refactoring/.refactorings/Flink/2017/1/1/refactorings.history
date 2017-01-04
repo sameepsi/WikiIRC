@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;WordCount&apos; to &apos;WikiCount&apos;&#x0A;- Original project: &apos;Flink&apos;&#x0A;- Original element: &apos;WordCount&apos;&#x0A;- Renamed element: &apos;WikiCount&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WordCount&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{WordCount.java[WordCount" matchStrategy="1" name="WikiCount" qualified="false" references="true" similarDeclarations="false" stamp="1483512532268" textual="false" version="1.0"/>
+</session>

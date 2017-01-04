@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+org.eclipse.team.ui.first_time=false
+org.eclipse.team.ui.group_bydate_mode=true
+org.eclipse.team.ui.remove_from_view_without_prompt=true
+org.eclipse.team.ui.run_import_in_background_=true
+org.eclipse.team.ui.show_author_in_compare_editor=true
+org.eclipse.team.ui.sychronizing_default_participant=org.eclipse.egit.ui.modelCompareParticipant
+org.eclipse.team.ui.sychronizing_default_participant_sec_id=1467706921372
+org.eclipse.team.ui.sychronizing_default_perspective_to_show=always
+pref_generichistory_view_linking=true

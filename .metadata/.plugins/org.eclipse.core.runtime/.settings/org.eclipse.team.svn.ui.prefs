@@ -1,0 +1,17 @@
+CommitPanel.keepLocks=true
+eclipse.preferences.version=1
+firstStartup=false
+history.comment=dGVzdAo\=;VGVzdGluZyBSZXBvIERvbmU\=;VGVzdGluZyBSZXBv;cXdld3E\=;d3Jld2U\=;d3FkcXc\=;ZHF3ZXE\=;Y2JnaA\=\=;d2Vmd2U\=;ZndlZndl
+history.repositoryURL=c3ZuK3NzaDovL3N2bi5kZXYuZHJpc2h0aS1zb2Z0LmNvbS9zdm5fcmVwbw\=\=;c3ZuK3NzaDovL2FwcHMuYW1leW8uY29tL3N2bl9yZXBv;c3ZuK3NzaDovLzEwLjEwLjIuMTE0L3N2bl9yZXBv;c3ZuK3NzaDovLzEwLjEwLjIuMTE0L215cmVwb3NpdG9yeTI\=
+history.repositoryUser=YWJkdWwuYXJpb3Nl;YWJkdWwuYXJpb3Nlc29sbHV0aW9ucw\=\=;YWJkdWwuYXJpb3Nlc29mdHdhcmU\=;c3ZudXNlcg\=\=;a2hhbm5h
+org.eclipse.team.svn.ui.panel.ListSelectionPanel.height=200
+org.eclipse.team.svn.ui.panel.ListSelectionPanel.width=470
+org.eclipse.team.svn.ui.panel.callback.PromptCredentialsPanel.height=338
+org.eclipse.team.svn.ui.panel.callback.PromptCredentialsPanel.width=470
+org.eclipse.team.svn.ui.panel.common.EditCommentTemplatePanel.height=196
+org.eclipse.team.svn.ui.panel.common.EditCommentTemplatePanel.width=470
+org.eclipse.team.svn.ui.panel.local.CommitPanel.height=406
+org.eclipse.team.svn.ui.panel.local.CommitPanel.width=600
+org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.height=136
+org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.width=640
+preference.templatescomment.templates=RGVzYzoKUmV2aWV3ZXI6

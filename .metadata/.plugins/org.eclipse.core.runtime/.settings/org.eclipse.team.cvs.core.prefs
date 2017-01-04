@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+repositories/%pserver%10.10.2.2\:1%%repository/location=\:pserver\:10.10.2.2\:/cvsroot
+repositories/%pserver%10.10.2.2\:2%%repository/location=\:pserver\:10.10.2.2\:/cvsclients
+repositories/%pserver%bhishm.drishti-soft.com%%repository/location=\:pserver\:bhishm.drishti-soft.com\:/repository
+repositories/%pserver%matrix.drishti-soft.com\:1%%repository/location=\:pserver\:matrix.drishti-soft.com\:/cvsroot

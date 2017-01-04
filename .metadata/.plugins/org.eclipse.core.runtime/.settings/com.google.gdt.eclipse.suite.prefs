@@ -1,0 +1,13 @@
+SdkRegistrants_1331307392878=com.google.appengine.eclipse.sdkbundle_1.6.3.v201202290255r37,com.google.gwt.eclipse.sdkbundle_2.4.0.v201202290255-rel-r37,com.google.gwt.eclipse.sdkbundle_2.5.1
+SdkRegistrants_1421664577333=com.google.gwt.eclipse.sdkbundle_2.5.1
+addedNewWizardActions1.2_org.eclipse.jdt.ui.JavaBrowsingPerspective=com.google.gdt.eclipse.suite.wizards.newProjectWizard|com.google.gwt.eclipse.core.newModuleWizard|com.google.gwt.eclipse.core.newHostPageWizard|com.google.gwt.eclipse.core.newEntryPointWizard|com.google.gwt.eclipse.core.newClientBundleWizard|com.google.gwt.eclipse.core.newUiBinderWizard
+addedNewWizardActions1.2_org.eclipse.jdt.ui.JavaPerspective=com.google.gdt.eclipse.suite.wizards.newProjectWizard|com.google.gwt.eclipse.core.newModuleWizard|com.google.gwt.eclipse.core.newHostPageWizard|com.google.gwt.eclipse.core.newEntryPointWizard|com.google.gwt.eclipse.core.newClientBundleWizard|com.google.gwt.eclipse.core.newUiBinderWizard
+eclipse.preferences.version=1
+versionForLastForcedRebuild_bharti=2.5.2.v201202290255-rel-r37
+versionForLastForcedRebuild_com.drishti.ameyo.consort.core=3.8.0.v201410302155-rel-r44
+versionForLastForcedRebuild_com.drishti.ameyo.media.dim.app=3.8.0.v201410302155-rel-r44
+versionForLastForcedRebuild_com.drishti.ameyo.seh=3.8.0.v201410302155-rel-r44
+versionForLastForcedRebuild_com.drishti.ameyo.web.model=3.8.0.v201410302155-rel-r44
+versionForLastForcedRebuild_com.drishti.ameyo.webapi.ameyoclient=2.5.2.v201202290255-rel-r37
+versionForLastForcedRebuild_com.drishti.ameyo.webclient=3.8.0.v201410302155-rel-r44
+versionForLastForcedRebuild_com.drishti.ameyo.website.tracker.app=3.4.2.v201310081834-rel-r43

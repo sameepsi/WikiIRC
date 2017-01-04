@@ -1,0 +1,4 @@
+DependenciesView.show.callers=true
+DependenciesView.show.list=false
+Preferences.MainPage.overwriteBuildFilesOnExport=prompt
+eclipse.preferences.version=1
